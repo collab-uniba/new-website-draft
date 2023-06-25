@@ -1,0 +1,29 @@
+- name: Filippo Lanubile
+  photo: filippo-lanubile.jpg
+  level: Faculty
+  email: filippo.lanubile@uniba.it
+
+- name: Fabio Calefato
+  photo: fabio-calefato.jpg
+  level: Faculty
+  email: fabio.calefato@uniba.it
+
+- name: Nicole Novielli
+  photo: nicole-novielli.jpg
+  level: Faculty
+  email: nicole.novielli@uniba.it
+
+- name: Luigi Quaranta
+  photo: luigi-quaranta.jpg
+  level: Researcher
+  email: luigi.quaranta@uniba.it
+
+- name: Giuseppe Colavito
+  photo: giuseppe-colavito.jpg
+  level: PhD Student
+  email: giuseppe.colavito@uniba.it
+
+- name: Daniela Grassi
+  photo: daniela-grassi.jpg
+  level: PhD Student
+  email: daniela.grassi@uniba.it
